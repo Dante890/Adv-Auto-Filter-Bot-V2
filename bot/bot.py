@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @SpEcHIDe
+# (c) @Schrodinger4
 
 from pyrogram import Client, __version__
 
